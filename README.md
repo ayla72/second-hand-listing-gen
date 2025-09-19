@@ -11,10 +11,6 @@ A modern React application that helps you create professional resell listings wi
 - **Modern UI**: Beautiful, responsive design
 - **Mobile Friendly**: Works perfectly on all devices
 
-## 🚀 Live Demo
-
-[Add your deployed URL here when you deploy]
-
 ## 🛠️ Built With
 
 - React.js
